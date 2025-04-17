@@ -21,6 +21,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 -->
 
 ## Step 2: Configure your site
+MACACO
 
 _You turned on GitHub Pages! :tada:_
 
