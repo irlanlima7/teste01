@@ -7,4 +7,5 @@
 MACACO GAY
 
 
-![anime-hajime-no-ippo-makunouchi-ippo-hd-wallpaper-preview](https://github.com/user-attachments/assets/6645a165-08f9-4272-84cc-a739a32b11be)
+<img src="https://github.com/irlanlima7/teste01/raw/main/minha-imagem.jpg" alt="Descrição da imagem" />
+
